@@ -43,7 +43,5 @@
 <li> Fixed Message Scheduler on KitKat Phones. </li>
 <li> Fixed Emoji Icon Color. </li>
 <li> Fixed WhatsApp.Log</li>
-<li> Other Fixes</li>
-
-","url":"http://daiyshomis.blogspot.com"
-}
+<لي
+"،" رابط ":" http://daiyshomis.blogspot.com "
