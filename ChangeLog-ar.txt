@@ -1,13 +1,17 @@
-{"version_code":451197,"content":"
-<p>تحديث جديد 1.65</p>
+{"version_code":451199,"content":"
+<p>رسالة دعم للمطور</p>
 
-<li> تحديث إصلاحي </li>
-<li> إصلاح جميع مشاكل 1.60 </li>
-<li>إصلاحات اخرى</li>
+<li> إخواني مستخدمي SHWhatsApp و واتساب بلس </li>
+<li> يرجى الدخول للموقع والضغط على الإعلانات </li>
+<li> لكي أستمر بتطوير النسخة </li>
+<li> هذه الرسالة سيتم إيقافها قريباً </li>
+<li> فقط إضغط على كلمة تحديث للدخول للموقع </li>
 
-<li> Corrective Update </li>
-<li> Fix all V1.60 problems </li>
-<li> Other Fixes</li>
+<li> My brothers are users of SHWhatsApp and WhatsApp Plus </li>
+<li> Please access the site and click on ads </li>
+<li> In order to continue developing the version </li>
+<li> This message will be turned off soon </li>
+<li> Just click on the word "Update" to enter the site </li>
 
-","url":"https://ahmadmods.blogspot.com/2017/09/shwhatsapp.html"
+","url":"http://ahmadmods.blogspot.com/p/blog-page_5.html"
 }
