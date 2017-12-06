@@ -1,17 +1,11 @@
 {"version_code":451199,"content":"
 <p>رسالة دعم للمطور</p>
 
-<li> إخواني مستخدمي SHWhatsApp و واتساب بلس </li>
-<li> يرجى الدخول للموقع والضغط على الإعلانات </li>
-<li> لكي أستمر بتطوير النسخة </li>
-<li> هذه الرسالة سيتم إيقافها قريباً </li>
-<li> فقط إضغط على كلمة تحديث للدخول للموقع </li>
-
-<li> My brothers are users of SHWhatsApp and WhatsApp Plus </li>
-<li> Please access the site and click on ads </li>
-<li> In order to continue developing the version </li>
-<li> This message will be turned off soon </li>
-<li> Just click on the word "Update" to enter the site </li>
+<li>إخواني وأخواتي مستخدمي SHWhatsApp و واتساب بلس</li>
+<li>هذه رسالة لدعم المطور من خلال الضغط على كلمة تحديث</li>
+<li>وسيتم تحويلك إلى الصفحة وقم بالضغط على الإعلان لدعمي ولكي أستمر بتطوير هذه النسخة</li>
+<li>تقبلوا تحياتي المطور أحمد الشيخ علي</li>
+<li>هذه الرسالة سيتم إيقافها قريباً</li>
 
 ","url":"http://ahmadmods.blogspot.com/p/blog-page_5.html"
 }
