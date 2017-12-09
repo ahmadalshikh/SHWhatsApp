@@ -1,4 +1,4 @@
-{"version_code":451196,"content":"
+{"version_code":111111,"content":"
 <p>رسالة دعم للمطور</p>
 
 <li>إخواني وأخواتي مستخدمي SHWhatsApp و واتساب بلس</li>
