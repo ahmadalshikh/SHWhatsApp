@@ -1,4 +1,4 @@
-{"version_code":451199,"content":"
+{"version_code":451198,"content":"
 <p>تحديث جديد 1.70</p>
 
 <li>التحديث لنسخة الماركت 2.17.427</li>
