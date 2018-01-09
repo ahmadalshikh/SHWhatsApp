@@ -1,46 +1,25 @@
-{"version_code":451198,"content":"
-<p>تحديث جديد 1.70</p>
+{"version_code":451200,"content":"
+<p>تحديث جديد V1.80</p>
 
-<li>التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>(حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
-<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
-<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
-<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
-<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
-<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
-<li>دعم اللغة الالمانية</li>
-<li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
-<li>إصلاح الإنهيار عند فتح الحالة الستوري</li>
-<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)</li>
-<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
-<li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
-<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
-<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
-<li>إصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 2.17.427 </li>
+<li> إمكانية إخفاء اسم الشخص الذي تتحدث معه! (الخيار رقم 1.1.16) </li>
+<li> زيادة عدد أعضاء المجموعة إلى 1024 بدلا من 256 (سوف تتفعل قريبا من قبل السيرفر) </li>
+<li> تفعيل إمكانية البحث عن أعضاء المجموعة </li>
+<li> إضافة إمكانية تثبيت 1000 محادثة بدلاً من 3 </li>
+<li> إضافة خيار لدعم المطور </li>
+<li> إصلاح الإنهيار عند فتح محادثة في بعض الأجهزة </li>
+<li> إصلاحات أخرى </li>
+<li> شكراً لاختياركم SHWA! </li>
 
-<li> New Base Updated to 2.17.427</li>
-<li> Added New Emojis</li>
-<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
-<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
-<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
-<li> Enabled Change Number Notification</li>
-<li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li> Added German Language Support</li>
-<li> Fixed Navigation Bar Color when Select any chat/message</li>
-<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
-<li> Fixed Mod 6.11 for Android Oreo. </li>
-<li> Fixed Play Videos in some devices</li>
-<li> Fixed Crash when open Custom Privacy Chats</li>
-<li> Other Fixes</li>
+<li> New Base Updated to 2.17.427 (PlayStore) </li>
+<li> Hide name of person you're talking with! (option 1.1.16) </li>
+<li> Increase the number of members of groups to 1024 instead of 256 </li>
+<li> Activate the ability to search for group members </li>
+<li> Added Pin up to 1000 chats </li>
+<li> Added an option to support the developer </li>
+<li> Fixed crash when opening a conversation on some devices </li>
+<li> Other fixes </li>
+<li> Thank You for choosing SHWA! </li>
 
 ","url":"http://ahmadmods.blogspot.com/2017/12/shwhatsapp.html"
 }
