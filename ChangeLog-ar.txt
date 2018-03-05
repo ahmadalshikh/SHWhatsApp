@@ -1,25 +1,55 @@
-{"version_code":451199,"content":"
-<p>تحديث جديد V1.80</p>
+{"version_code":451202,"content":"
+<p>تحديث 1.95</p>
+<p>تحديث إصلاحي</p>
 
-<li> التحديث لنسخة الماركت 2.17.427 </li>
-<li> إمكانية إخفاء اسم الشخص الذي تتحدث معه! (الخيار رقم 1.1.16) </li>
-<li> زيادة عدد أعضاء المجموعة إلى 1024 بدلا من 256 (سوف تتفعل قريبا من قبل السيرفر) </li>
-<li> تفعيل إمكانية البحث عن أعضاء المجموعة </li>
-<li> إضافة إمكانية تثبيت 1000 محادثة بدلاً من 3 </li>
-<li> إضافة خيار لدعم المطور </li>
-<li> إصلاح الإنهيار عند فتح محادثة في بعض الأجهزة </li>
-<li> إصلاحات أخرى </li>
-<li> شكراً لاختياركم SHWA! </li>
+<li>التحديث لنسخة الماركت 2.18.9</li>
+<li>(حصريا) إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)</li>
+<li>إمكانية إخفاء خانة الحالات المشاهدة في واجهة الستوري/الحالة</li>
+<li>إمكانية إخفاء خانة الحالات المنشورة مؤخرا في واجهة الستوري/الحالة</li>
+<li>إمكانية إخفاء خانة الحالات الغير هامة في واجهة الستوري/الحالة</li>
+<li>إمكانية وضع فيديو في الحالة / الستوري حتى 30 دقيقة بدلاً من 7 دقائق</li>
+<li>إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط</li>
+<li>إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3</li>
+<li>إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1</li>
+<li>إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0</li>
+<li>إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3</li>
+<li>إضافة الخيار رقم 1.2.64 لتعطيل ظهور 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
+<li>إضافة الخيار رقم 1.2.65 لتغيير لون 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
+<li>يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة</li>
+<li>إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)</li>
+<li>إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج</li>
+<li>إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة 'إرسال رسالة لرقم غير محفوظ في جهازك'</li>
+<li>إصلاح ظهور المحادثات المخفية في الويدجت</li>
+<li>إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج</li>
+<li>إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة</li>
+<li>دعم اللغة الهندية </li>
+<li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.17.427 (PlayStore) </li>
-<li> Hide name of person you're talking with! (option 1.1.16) </li>
-<li> Increase the number of members of groups to 1024 instead of 256 </li>
-<li> Activate the ability to search for group members </li>
-<li> Added Pin up to 1000 chats </li>
-<li> Added an option to support the developer </li>
-<li> Fixed crash when opening a conversation on some devices </li>
-<li> Other fixes </li>
-<li> Thank You for choosing SHWA! </li>
+<li> New Base Updated to 2.18.9</li>
+<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
+<li> Ability to hide recent status in status rowrow</li>
+<li> Ability to hide view status in status row</li>
+<li>Ability to hide mute status in status row</li>
+<li> Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
+<li> Enabled Search Participants</li>
+<li> Enabled Manage Group Admins</li>
+<li> Enabled Group Settings (Server Sided) </li>
+<li> Added 7 New Conversation Bubbles</li>
+<li> Added 4 New Ticks</li>
+<li> Added 16 New Notifying Bar Icons</li>
+<li> Added 5 New Launcher Icons </li>
+<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
+<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
+<li> Added Hindi Language (Indian Language) </li>
+<li> Fixed Hidden Chat opening from Phones</li>
+<li> Fixed Hidden Chat opening from Dialer</li>
+<li> Fixed Hidden Message showing in Widget</li>
+<li> Fixed Hidden Chat Opening from Widget</li>
+<li> Fixed Able to call Hidden Chat From Group</li>
+<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
+<li> Fixed App Opening from Widget even when Locked</li>
+<li> Fixed Crash On Some Devices</li>
+<li> Many More Fixes</li>
 
-","url":"http://ahmadmods.blogspot.com/2017/12/shwhatsapp.html"
+","url":"https://ahmadmods.blogspot.com/2017/12/shwhatsapp.html"
 }
