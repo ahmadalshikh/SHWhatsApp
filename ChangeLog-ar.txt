@@ -51,5 +51,5 @@
 <li> Fixed Crash On Some Devices</li>
 <li> Many More Fixes</li>
 
-","url":"https://ahmadmods.blogspot.com/2017/12/shwhatsapp.html"
+","url":"http://www.ahmadmods.com/2017/12/shwhatsapp.html"
 }
