@@ -43,5 +43,5 @@
 <li> [New package] com.shwh4 to run 3rd SHWA number </li>
 <li> Many Other Fixes</li>
 
-","url":"https://ahmadmods.blogspot.com/2017/12/shwhatsapp.html"
+","url":"https://dev-ahmad.blogspot.com/2018/10/KingWA.html"
 }
